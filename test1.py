@@ -33,3 +33,6 @@ array.sort()
 
 end_time = time.time() # 측정 종료
 print("기본 정렬 라이브러리 성능 측정:", end_time - start_time) # 수행 시간 출력
+
+end_time = time.time() # 측정 종료
+print("기본 정렬 라이브러리 성능 측정:", end_time - start_time) # 수행 시간 출력 추가2
